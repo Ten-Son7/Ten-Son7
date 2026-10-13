@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tenzin Sonam and I'm an aspiring Data Analyst based in New York City.</p>
+<p align="left">My name is Tenzin Sonam, and I'm an aspiring Data Analyst based in New York City.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔍 Finding insights no one asked for since 2024<br>📚 I'm currently learning SQL, Python<br>🎯 Seeking: Full-Time or Interships</p>
+<p align="left">🔍 Currently finishing my Master of Science Degree in Business Analytics with a concentration in Data Analytics at Baruch College Zicklin School of Business.<br>📚 I'm currently learning SQL and Python<br>🎯 Seeking: Full-Time or Interships</p>
 
 ###
 
